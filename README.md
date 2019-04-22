@@ -6,9 +6,9 @@
 
 ## General info
 Use this program you can add task.
-Task have id and name. Id is autoincrement or identity.
+Task have id and name. Id is identity.
 You can also create, edit, delete, update and see visual
-how it working. 
+how it working. Now example how work it.
 ![task](https://user-images.githubusercontent.com/42969660/56504655-4c05ef80-652a-11e9-9203-12e840c16aa2.png)
 
 
